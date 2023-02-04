@@ -1,0 +1,10 @@
+predefined
+user defined
+for code reusability we use functions
+let say we want to uyse a particular concept multiple times in our program instead of writing the same code
+many times we can write it once include that inside a function and can call the function wherever we needed
+types:
+1.functions without argument without return value
+2.without argumehnt
+3.with argument with return value
+4.with argument without return value
